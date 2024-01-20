@@ -1,4 +1,4 @@
-def switch_upper(word):
+def switch_upper(word: str):
     """ перевод в заглавные буквы """
     return word.upper()
 
