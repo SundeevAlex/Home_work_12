@@ -6,3 +6,5 @@ def switch_upper(word):
 def switch_title(word):
     """ делает заглавными первые буквы """
     return word.title()
+
+# например что-то добавили
